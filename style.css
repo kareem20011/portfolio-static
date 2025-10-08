@@ -1908,7 +1908,7 @@ body {
 }
 
 .dark .footer-description {
-    color: var(--gray-700);
+    color: var(--dark-text);
 }
 
 .footer-links {
